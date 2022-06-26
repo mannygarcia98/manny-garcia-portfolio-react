@@ -6,9 +6,9 @@ function About() {
       <div className="row">
         <div className="col-12">
           <div className="container d-flex justify-content-center">
-            <div className="row">
-              <h2 className="col-6 text-end display-1">MANNY</h2>
-              <h2 className="col-6 display-1">GARCIA</h2>
+            <div className="row my-4">
+              <h2 className="col-6 text-end display-1 mb-0">MANNY</h2>
+              <h2 className="col-6 display-1 mb-0">GARCIA</h2>
               <p className="col-12 text-center top-margin display-6">Web Developer</p>
             </div>
           </div>
