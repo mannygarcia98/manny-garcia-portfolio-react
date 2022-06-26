@@ -9,7 +9,10 @@ function Resume() {
             Manny
             <span class="color-red">Garcia</span>
           </h1>
-          <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+          <p class="lead mb-5">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima quam earum magni possimus tempore delectus tempora explicabo, voluptatibus fugit quo sit vero, cum, officia amet necessitatibus ducimus tenetur! Nostrum facilis eveniet ipsa officiis fugiat beatae autem, suscipit inventore
+            at dignissimos tenetur accusamus modi. Velit ducimus suscipit quas distinctio ipsum doloribus.
+          </p>
         </div>
       </section>
       <hr class="m-0" />
@@ -20,10 +23,7 @@ function Resume() {
             <div class="flex-grow-1">
               <h3 class="mb-0">General Merchandise Associate</h3>
               <div class="subheading mb-3">Target</div>
-              <p>
-                Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple
-                touchpoints for offshoring.
-              </p>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia consectetur dolor molestiae quibusdam neque ab quasi nemo dicta aliquam corporis.</p>
             </div>
             <div class="flex-shrink-0">
               <span class="color-red">September 2020 - Present</span>
@@ -33,7 +33,10 @@ function Resume() {
             <div class="flex-grow-1">
               <h3 class="mb-0">Assistant Manager</h3>
               <div class="subheading mb-3">Church's Chicken</div>
-              <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+              <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non, autem. Blanditiis tempora minus corrupti animi distinctio asperiores laudantium accusantium praesentium. Neque sequi laboriosam inventore doloribus eius a eaque porro maiores! Consequuntur natus nesciunt odit tempore esse
+                deleniti laudantium tenetur minima.
+              </p>
             </div>
             <div class="flex-shrink-0">
               <span class="color-red">June 2016 - February 2021</span>
