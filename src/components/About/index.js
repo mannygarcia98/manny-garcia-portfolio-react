@@ -7,9 +7,9 @@ function About() {
         <div className="col-12">
           <div className="container d-flex justify-content-center">
             <div className="row">
-              <h2 className="col-6 text-end">MANNY</h2>
-              <h2 className="col-6 fs-1">GARCIA</h2>
-              <p className="col-12 text-center top-margin">Web Developer</p>
+              <h2 className="col-6 text-end display-1">MANNY</h2>
+              <h2 className="col-6 display-1">GARCIA</h2>
+              <p className="col-12 text-center top-margin display-6">Web Developer</p>
             </div>
           </div>
         </div>

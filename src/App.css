@@ -42,3 +42,7 @@ body {
   line-height: 40px;
   /* Vertically center the text there */
 }
+
+.pointer {
+  cursor: pointer;
+}
