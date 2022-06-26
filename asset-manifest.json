@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mannygarcia98.github.io/manny-garcia-portfolio-react/static/css/main.d1c5cf55.css",
-    "main.js": "/mannygarcia98.github.io/manny-garcia-portfolio-react/static/js/main.b7f629ac.js",
-    "static/js/787.1852458d.chunk.js": "/mannygarcia98.github.io/manny-garcia-portfolio-react/static/js/787.1852458d.chunk.js",
-    "static/media/run-buddy_cropped.jpg": "/mannygarcia98.github.io/manny-garcia-portfolio-react/static/media/run-buddy_cropped.8487e4d3f69ea0e7f754.jpg",
-    "index.html": "/mannygarcia98.github.io/manny-garcia-portfolio-react/index.html",
-    "main.d1c5cf55.css.map": "/mannygarcia98.github.io/manny-garcia-portfolio-react/static/css/main.d1c5cf55.css.map",
-    "main.b7f629ac.js.map": "/mannygarcia98.github.io/manny-garcia-portfolio-react/static/js/main.b7f629ac.js.map",
-    "787.1852458d.chunk.js.map": "/mannygarcia98.github.io/manny-garcia-portfolio-react/static/js/787.1852458d.chunk.js.map"
+    "main.css": "/manny-garcia-portfolio-react/static/css/main.d1c5cf55.css",
+    "main.js": "/manny-garcia-portfolio-react/static/js/main.678ae8b8.js",
+    "static/js/787.1852458d.chunk.js": "/manny-garcia-portfolio-react/static/js/787.1852458d.chunk.js",
+    "static/media/run-buddy_cropped.jpg": "/manny-garcia-portfolio-react/static/media/run-buddy_cropped.8487e4d3f69ea0e7f754.jpg",
+    "index.html": "/manny-garcia-portfolio-react/index.html",
+    "main.d1c5cf55.css.map": "/manny-garcia-portfolio-react/static/css/main.d1c5cf55.css.map",
+    "main.678ae8b8.js.map": "/manny-garcia-portfolio-react/static/js/main.678ae8b8.js.map",
+    "787.1852458d.chunk.js.map": "/manny-garcia-portfolio-react/static/js/787.1852458d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1c5cf55.css",
-    "static/js/main.b7f629ac.js"
+    "static/js/main.678ae8b8.js"
   ]
 }
